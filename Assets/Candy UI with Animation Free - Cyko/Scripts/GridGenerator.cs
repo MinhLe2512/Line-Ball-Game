@@ -172,7 +172,7 @@ public class GridGenerator : MonoBehaviour
 
         int tmpX, tmpY;
 
-        for (int i = 0; i < 75; i++)
+        for (int i = 0; i < 5; i++)
         {
             
             tmpX = Random.Range(0, xDim);
